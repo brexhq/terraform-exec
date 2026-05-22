@@ -1,9 +1,9 @@
 module github.com/hashicorp/terraform-exec
 
-go 1.18
+go 1.21
 
 require (
-	github.com/google/go-cmp v0.5.9
+	github.com/google/go-cmp v0.7.0
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/hc-install v0.5.1
 	github.com/hashicorp/terraform-json v0.16.0
