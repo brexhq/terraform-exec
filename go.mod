@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/google/go-cmp v0.5.9
-	github.com/hashicorp/go-version v1.6.0
+	github.com/hashicorp/go-version v1.9.0
 	github.com/hashicorp/hc-install v0.5.1
 	github.com/hashicorp/terraform-json v0.16.0
 	github.com/zclconf/go-cty v1.13.1
